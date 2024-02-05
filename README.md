@@ -10,6 +10,4 @@
 
 欢迎学习我的算法教程：
 
-| GitHub Pages | Gitee Pages |
-| :----: | :----: |
-| [https://labuladong.github.io/algo/](https://labuladong.github.io/algo/) | [https://labuladong.gitee.io/algo/](https://labuladong.gitee.io/algo/) |
+https://labuladong.online/algo/
