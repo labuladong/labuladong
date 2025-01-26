@@ -4,7 +4,7 @@
 
 <div style="align-items: center; display: flex;">
 <a target='_blank' href="https://github.com/labuladong">
-  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=labuladong&count_private=true&hide=prs,contribs&show_icons=true&theme=vue" />
+  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=labuladong&count_private=true&hide=prs,contribs&show_icons=true&theme=transparent" />
 </a>
 </div>
 
